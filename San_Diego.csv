@@ -1,0 +1,573 @@
+"siteName","sampleID","date","time","nameoftester","siteID","depth","airtemp","watertemp","waveheight","currentweather","raininlast3days","tide","comments","testingtype","totalbacteria","ecolbacteria","enterobacteria"
+"Campland- Mission Bay",553112672,"2019-11-21","8-9 am","Jamie Owens",792,0.0,"50-60","56-60","2-3","partly cloudy","yes","medium","","Quantitray Sealer","","",10112
+"Coronado: Avenida Del Sol",553112618,"2019-11-21","6-7 am","Karoly",664,12.0,"60-70","56-60","3-4","light rain","yes","medium","","Quantitray Sealer","","",41
+"Coronado: Silver Strand State Beach",553112619,"2019-11-21","9-10 am","Linda",663,18.0,"50-60","56-60","5-6","light rain","yes","medium","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553112673,"2019-11-21","8-9 am","Hillary",847,0.0,"60-70","61-65","4-5","light rain","yes","medium","","Quantitray Sealer","","",981
+"Imperial Beach Pier",553112622,"2019-11-21","1-2 pm","JH",662,6.0,"60-70","56-60","3-4","partly cloudy","yes","medium","","Quantitray Sealer","","",6131
+"Imperial Beach: Seacoast Drive",553112624,"2019-11-21","1-2 pm","JH",661,6.0,"60-70","56-60","3-4","partly cloudy","yes","medium","","Quantitray Sealer","","",24196
+"Mission Bay Aquatic Center",553112671,"2019-11-21","8-9 am","Jamie Owens",810,0.0,"50-60","56-60","2-3","partly cloudy","yes","medium","","Quantitray Sealer","","",5247
+"Ocean Beach Pier",553112674,"2019-11-21","9-10 am","Hillary",846,0.0,"60-70","61-65","2-3","light rain","yes","medium","","Quantitray Sealer","","",1576
+"Sunset Cliffs (Ocean Beach)",553112675,"2019-11-21","9-10 am","Hillary",848,0.0,"60-70","61-65","4-5","light rain","yes","medium","","Quantitray Sealer","","",350
+"Tourmaline Surf Park- Pacific Beach",553112670,"2019-11-21","8-9 am","Jamie Owens",791,0.0,"50-60","56-60","2-3","partly cloudy","yes","medium","","Quantitray Sealer","","",41
+"Campland- Mission Bay",553112426,"2019-11-14","8-9 am","Jamie",792,0.0,"60-70","61-65",0.5,"partly cloudy","no","high","","Quantitray Sealer","","",41
+"Dog Beach (Ocean Beach)",553112428,"2019-11-14","8-9 am","Alexis",847,0.0,"60-70","61-65","1-2","sunny","no","high","","Quantitray Sealer","","",31
+"Mission Bay Aquatic Center",553112425,"2019-11-14","8-9 am","Jamie",810,0.0,"60-70","61-65",0.5,"partly cloudy","no","high","","Quantitray Sealer","","",0
+"Ocean Beach Pier",553112427,"2019-11-14","9-10 am","Alexis",846,0.0,"60-70","61-65","1-2","sunny","no","high","","Quantitray Sealer","","",41
+"Sunset Cliffs (Ocean Beach)",553112429,"2019-11-14","9-10 am","Alexis",848,0.0,"60-70","61-65","1-2","sunny","no","high","","Quantitray Sealer","","",41
+"Tourmaline Surf Park- Pacific Beach",553112424,"2019-11-14","8-9 am","Jamie",791,0.0,"60-70","61-65","1-2","partly cloudy","no","high","","Quantitray Sealer","","",10
+"Imperial Beach Pier",553112421,"2019-11-13","2-3 pm","Gracie, J",662,6.0,"60-70","61-65","2-3","sunny","no","medium","","Quantitray Sealer","","",20
+"Imperial Beach: Seacoast Drive",553112423,"2019-11-13","2-3 pm","Colby, Declan, J",661,6.0,"60-70","61-65","2-3","sunny","no","medium","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553112325,"2019-11-07","8-9 am","Alex",792,0.0,"60-70","56-60",0.5,"overcast","no","medium","","Quantitray Sealer","","",373
+"Coronado: Avenida Del Sol",553112361,"2019-11-07","7-8 am","Jessica",664,0.0,"60-70","61-65","1-2","overcast","no","","","Quantitray Sealer","","",52
+"Coronado: Silver Strand State Beach",553112362,"2019-11-07","7-8 am","Jessica",663,0.0,"60-70","61-65","1-2","overcast","no","high","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553112328,"2019-11-07","8-9 am","Hillary",847,0.0,"60-70","56-60","2-3","overcast","no","medium","","Quantitray Sealer","","",10
+"Mission Bay Aquatic Center",553112326,"2019-11-07","8-9 am","Alex",810,0.0,"60-70","56-60",0.5,"overcast","no","medium","","Quantitray Sealer","","",10
+"Ocean Beach Pier",553112327,"2019-11-07","8-9 am","Hillary",846,0.0,"60-70","56-60","2-3","overcast","no","medium","","Quantitray Sealer","","",20
+"Sunset Cliffs (Ocean Beach)",553112329,"2019-11-07","8-9 am","Hillary",848,0.0,"60-70","56-60","2-3","overcast","no","medium","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553112324,"2019-11-07","8-9 am","Alex",791,0.0,"60-70","56-60","2-3","overcast","no","medium","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553112096,"2019-10-31","8-9 am","Jamie",792,0.0,"60-70","56-60","","","","","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553112105,"2019-10-31","7-8 am","Jessica",664,18.0,"50-60","66-70","1-2","","no","","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553112106,"2019-10-31","7-8 am","Ally",663,18.0,"50-60","66-70","1-2","","no","medium","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553112099,"2019-10-31","9-10 am","Alex",847,0.0,"60-70","56-60","2-3","sunny","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553112116,"2019-10-31","2-3 pm","A, J",662,6.0,"70-80","61-65","2-3","sunny","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553112117,"2019-10-31","2-3 pm","A, J",661,6.0,"70-80","61-65","2-3","sunny","no","medium","","Quantitray Sealer","","",10
+"Mission Bay Aquatic Center",553112097,"2019-10-31","8-9 am","Jamie",810,0.0,"60-70","56-60",0.5,"sunny","no","medium","","Quantitray Sealer","","",0
+"Ocean Beach Pier",553112098,"2019-10-31","8-9 am","Alex",846,0.0,"60-70","56-60","2-3","sunny","no","medium","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553112100,"2019-10-31","8-9 am","Alex",848,0.0,"60-70","56-60","2-3","sunny","no","medium","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553112095,"2019-10-31","8-9 am","Jamie",791,0.0,"60-70","56-60","2-3","sunny","no","medium","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553111982,"2019-10-24","8-9 am","Raphaelle",792,0.0,"70-80","61-65",0.5,"sunny","no","medium","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553112044,"2019-10-24","7-8 am","Jessica",664,0.0,"","","","","no","high","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553112045,"2019-10-24","","Jessica ",663,0.0,"","","","","no","","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553111985,"2019-10-24","8-9 am","Caitlin",847,0.0,"70-80","61-65","2-3","sunny","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553111990,"2019-10-24","11-12 pm","J, Alli",662,6.0,"80-90","61-65","3-4","sunny","no","medium","","Quantitray Sealer","","",10
+"Imperial Beach: Seacoast Drive",553111989,"2019-10-24","11-12 pm","J, Alli",661,6.0,"80-90","61-65","3-4","sunny","no","medium","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553111983,"2019-10-24","8-9 am","Raphaelle",810,0.0,"70-80","61-65",0.5,"sunny","no","medium","","Quantitray Sealer","","",0
+"Ocean Beach Pier",553111984,"2019-10-24","8-9 am","Caitlin",846,0.0,"70-80","61-65","3-4","sunny","no","medium","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553111986,"2019-10-24","8-9 am","Caitlin",848,0.0,"70-80","61-65","3-4","sunny","no","medium","","Quantitray Sealer","","",100
+"Tourmaline Surf Park- Pacific Beach",553111981,"2019-10-24","8-9 am","Raphaelle",791,0.0,"70-80","61-65","3-4","sunny","no","medium","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553111798,"2019-10-17","7-8 am","Jamie",792,0.0,"60-70","61-65",0.5,"partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553111780,"2019-10-17","7-8 am","Jessica",664,0.0,"60-70","61-65","2-3","overcast","no","medium","","Quantitray Sealer","","",41
+"Coronado: Silver Strand State Beach",553111781,"2019-10-17","7-8 am","Ally",663,0.0,"60-70","61-65","2-3","overcast","no","medium","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553111795,"2019-10-17","7-8 am","Hillary",847,0.0,"60-70","61-65","3-4","overcast","no","medium","","Quantitray Sealer","","",345
+"Mission Bay Aquatic Center",553111799,"2019-10-17","7-8 am","Jamie",810,0.0,"60-70","61-65",0.5,"partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Ocean Beach Pier",553111794,"2019-10-17","7-8 am","Hillary",846,0.0,"60-70","61-65","3-4","overcast","no","medium","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553111796,"2019-10-17","7-8 am","Hillary",848,0.0,"60-70","61-65","3-4","overcast","no","medium","","Quantitray Sealer","","",31
+"Tourmaline Surf Park- Pacific Beach",553111797,"2019-10-17","7-8 am","Jamie",791,0.0,"60-70","61-65","3-4","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553111765,"2019-10-16","11-12 pm","P, J",662,6.0,"60-70","66-70","2-3","sunny","no","medium","","Quantitray Sealer","","",52
+"Imperial Beach: Seacoast Drive",553111764,"2019-10-16","11-12 pm","P, J",661,6.0,"70-80","66-70","2-3","sunny","no","medium","","Quantitray Sealer","","",20
+"Campland- Mission Bay",553111651,"2019-10-10","9-10 am","Alex/Raph",792,0.0,"60-70","66-70","","partly cloudy","no","medium","","Quantitray Sealer","","",52
+"Coronado: Avenida Del Sol",553111642,"2019-10-10","7-8 am","Jessica",664,0.0,"","","","","no","high","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553111648,"2019-10-10","9-10 am","Hillary",847,0.0,"60-70","66-70","1-2","partly cloudy","no","high","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553111663,"2019-10-10","2-3 pm","J",662,6.0,"60-70","66-70","2-3","sunny","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553111662,"2019-10-10","2-3 pm","J",661,6.0,"60-70","66-70","2-3","sunny","no","medium","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553111652,"2019-10-10","9-10 am","Alex/Raph",810,0.0,"60-70","66-70","1-2","partly cloudy","no","medium","","Quantitray Sealer","","",10
+"Ocean Beach Pier",553111649,"2019-10-10","9-10 am","Hillary",846,0.0,"60-70","66-70","1-2","partly cloudy","no","high","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553111650,"2019-10-10","9-10 am","Hillary",848,0.0,"60-70","66-70","1-2","partly cloudy","no","high","","Quantitray Sealer","","",20
+"Tourmaline Surf Park- Pacific Beach",553111654,"2019-10-10","9-10 am","Alex/Raph",791,0.0,"60-70","66-70","1-2","partly cloudy","no","medium","","Quantitray Sealer","","",10
+"Campland- Mission Bay",553111337,"2019-10-03","7-8 am","Reyna",792,0.0,"60-70","71-75",0.5,"sunny","no","high","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553111336,"2019-10-03","7-8 am","Reyna",791,0.0,"60-70","71-75","3-4","sunny","no","high","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553111182,"2019-09-26","7-8 am","Jessica",664,0.0,"","","","overcast","no","","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553111183,"2019-09-26","8-9 am","Jessica",663,0.0,"","","","overcast","no","high","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553111181,"2019-09-26","8-9 am","Linda",662,0.0,"70-80","66-70","2-3","overcast","no","high","","Quantitray Sealer","","",16
+"Imperial Beach: Seacoast Drive",553111180,"2019-09-26","8-9 am","Linda",661,0.0,"70-80","66-70","2-3","overcast","no","","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553110973,"2019-09-19","","Reyna",792,0.0,"60-70","71-75","1-2","partly cloudy","no","high","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553110996,"2019-09-19","7-8 am","Jessica",664,0.0,"","","","","no","high","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553111178,"2019-09-19","","Jessica",664,0.0,"","","","","no","","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553111179,"2019-09-19","","Jessica",663,0.0,"","","","","","","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553110966,"2019-09-19","","Hillary",847,0.0,"60-70","66-70","1-2","sunny","no","medium","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553110975,"2019-09-19","","Reyna",810,0.0,"60-70","71-75","1-2","partly cloudy","no","high","","Quantitray Sealer","","",10
+"Ocean Beach Pier",553110969,"2019-09-19","","Hillary",846,0.0,"60-70","66-70","1-2","sunny","no","medium","","Quantitray Sealer","","",10
+"Sunset Cliffs (Ocean Beach)",553110971,"2019-09-19","","Hillary",848,0.0,"60-70","66-70","1-2","sunny","no","medium","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553110976,"2019-09-19","","Reyna",791,0.0,"60-70","71-75","1-2","partly cloudy","no","high","","Quantitray Sealer","","",10
+"Imperial Beach Pier",553110942,"2019-09-18","9-10 am","Logan, Jeremy, J",662,6.0,"70-80","66-70","2-3","sunny","no","medium","","Quantitray Sealer","","",10
+"Imperial Beach: Seacoast Drive",553110943,"2019-09-18","9-10 am","A., M., J.",661,6.0,"70-80","66-70","2-3","sunny","no","medium","","Quantitray Sealer","","",10
+"Campland- Mission Bay",553110799,"2019-09-12","8-9 am","Reyna",792,0.0,"70-80","71-75",0.5,"overcast","no","high","","Quantitray Sealer","","",20
+"Coronado: Avenida Del Sol",553110783,"2019-09-12","8-9 am","Jessica",664,0.0,"60-70","66-70","2-3","partly cloudy","no","","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553110801,"2019-09-12","9-10 am","Jessica",664,0.0,"70-80","71-75","2-3","","no","high","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553110784,"2019-09-12","8-9 am","Jessica",663,0.0,"","66-70","2-3","sunny","no","","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553110800,"2019-09-12","9-10 am","Jessica",663,0.0,"70-80","71-75","2-3","","no","high","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553110795,"2019-09-12","8-9 am","Hillary",847,0.0,"70-80","71-75","3-4","overcast","no","high","","Quantitray Sealer","","",30
+"Imperial Beach Pier",553110793,"2019-09-12","11-12 pm","Maya, J",662,6.0,"70-80","71-75","2-3","sunny","no","medium","","Quantitray Sealer","","",10
+"Imperial Beach: Seacoast Drive",553110792,"2019-09-12","11-12 pm","Maya, J",661,6.0,"70-80","71-75","2-3","sunny","no","medium","","Quantitray Sealer","","",10
+"Mission Bay Aquatic Center",553110797,"2019-09-12","8-9 am","Reyna",810,0.0,"70-80","71-75","3-4","overcast","no","high","","Quantitray Sealer","","",10
+"Ocean Beach Pier",553110794,"2019-09-12","8-9 am","Hillary",846,0.0,"70-80","71-75","3-4","overcast","no","high","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553110796,"2019-09-12","8-9 am","Hillary",848,0.0,"70-80","71-75","3-4","overcast","no","high","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553110798,"2019-09-12","8-9 am","Reyna",791,0.0,"70-80","71-75","2-3","overcast","no","high","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553110660,"2019-09-05","","Reyna",792,0.0,"","","","","","","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553110628,"2019-09-05","7-8 am","Jessica",664,0.0,"","","1-2","","yes","","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553110654,"2019-09-05","","Jessica",663,0.0,"","","","sunny","no","","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553110671,"2019-09-05","","Jessica",663,0.0,"","","","","","","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553110657,"2019-09-05","","Alexis",847,0.0,"","","","","","","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553110662,"2019-09-05","11-12 pm","P.1",662,6.0,"70-80","66-70","3-4","sunny","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553110663,"2019-09-05","11-12 pm","P.1",661,6.0,"70-80","66-70","3-4","sunny","no","medium","","Quantitray Sealer","","",272
+"Mission Bay Aquatic Center",553110659,"2019-09-05","","Reyna",810,0.0,"","","","","","","","Quantitray Sealer","","",0
+"Ocean Beach Pier",553110658,"2019-09-05","","Alexis",846,0.0,"","","","","","","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553110656,"2019-09-05","","Alexis",848,0.0,"","","","","","","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553110661,"2019-09-05","","Reyna",791,0.0,"","","","","","","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553110495,"2019-08-29","8-9 am","Jamie & Reyna",792,0.0,"60-70","66-70","1-2","overcast","no","high","","Quantitray Sealer","","",63
+"Coronado: Avenida Del Sol",553110487,"2019-08-29","7-8 am","Jessica",664,0.0,"","","","","no","low","","Quantitray Sealer","","",20
+"Coronado: Silver Strand State Beach",553110488,"2019-08-29","9-10 am","Jessica",663,0.0,"70-80","71-75","1-2","partly cloudy","no","medium","","Quantitray Sealer","","",20
+"Dog Beach (Ocean Beach)",553110497,"2019-08-29","8-9 am","Hillary",847,0.0,"60-70","66-70","1-2","overcast","no","medium","","Quantitray Sealer","","",10
+"Imperial Beach Pier",553110505,"2019-08-29","2-3 pm","Anthony, Audrie",662,6.0,"70-80","66-70","2-3","sunny","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553110506,"2019-08-29","2-3 pm","Anthony, Audrie",661,6.0,"70-80","66-70","2-3","sunny","no","medium","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553110494,"2019-08-29","8-9 am","Jamie & Reyna",810,0.0,"60-70","66-70","1-2","overcast","no","high","","Quantitray Sealer","","",0
+"Ocean Beach Pier",553110499,"2019-08-29","8-9 am","Hillary",846,0.0,"60-70","66-70","1-2","overcast","no","medium","","Quantitray Sealer","","",10
+"Sunset Cliffs (Ocean Beach)",553110496,"2019-08-29","8-9 am","Hillary",848,0.0,"70-80","66-70","1-2","overcast","no","medium","","Quantitray Sealer","","",10
+"Tourmaline Surf Park- Pacific Beach",553110493,"2019-08-29","8-9 am","Jamie & Reyna",791,0.0,"60-70","66-70","1-2","overcast","no","high","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553110380,"2019-08-22","8-9 am","Alex",792,0.0,"60-70","71-75",0.5,"overcast","no","low","","Quantitray Sealer","","",397
+"Coronado: Avenida Del Sol",553110378,"2019-08-22","8-9 am","Kelli",664,0.0,"60-70","66-70","1-2","overcast","no","low","","Quantitray Sealer","","",10
+"Coronado: Silver Strand State Beach",553110377,"2019-08-22","8-9 am","Kelli",663,0.0,"60-70","71-75","1-2","overcast","no","low","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553110375,"2019-08-22","8-9 am","Hillary",847,0.0,"60-70","71-75","1-2","overcast","no","low","","Quantitray Sealer","","",10
+"Mission Bay Aquatic Center",553110381,"2019-08-22","8-9 am","Alex",810,0.0,"60-70","71-75",0.5,"overcast","no","low","","Quantitray Sealer","","",10
+"Ocean Beach Pier",553110376,"2019-08-22","8-9 am","Hillary",846,0.0,"60-70","71-75","1-2","overcast","no","low","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553110374,"2019-08-22","8-9 am","Hillary",848,0.0,"60-70","71-75","1-2","overcast","no","low","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553110379,"2019-08-22","8-9 am","Alex",791,0.0,"60-70","71-75","1-2","overcast","no","low","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553110236,"2019-08-15","","Jamie Owens",792,0.0,"60-70","66-70","2-3","overcast","no","medium","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553110238,"2019-08-15","8-9 am","Linda Smith",664,0.0,"60-70","66-70","3-4","overcast","no","high","","Quantitray Sealer","","",10
+"Coronado: Silver Strand State Beach",553110239,"2019-08-15","8-9 am","Linda Smith",663,0.0,"60-70","66-70","3-4","overcast","no","high","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553110233,"2019-08-15","8-9 am","Alex & Hillary",847,0.0,"70-80","71-75","1-2","overcast","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553110254,"2019-08-15","1-2 pm","Alli, Anthony",662,6.0,"70-80","66-70","2-3","sunny","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553110253,"2019-08-15","1-2 pm","Alli, Anthony",661,6.0,"70-80","66-70","2-3","sunny","no","medium","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553110235,"2019-08-15","","Jamie Owens",810,0.0,"60-70","66-70","2-3","overcast","no","medium","","Quantitray Sealer","","",0
+"Ocean Beach Pier",553110234,"2019-08-15","8-9 am","Alex & Hillary",846,0.0,"70-80","71-75","1-2","overcast","no","medium","","Quantitray Sealer","","",10
+"Sunset Cliffs (Ocean Beach)",553110232,"2019-08-15","8-9 am","Alex & Hillary",848,0.0,"70-80","71-75","1-2","overcast","no","medium","","Quantitray Sealer","","",63
+"Tourmaline Surf Park- Pacific Beach",553110237,"2019-08-15","","Jamie Owens",791,0.0,"60-70","66-70","2-3","overcast","no","medium","","Quantitray Sealer","","",10
+"Campland- Mission Bay",553110139,"2019-08-09","8-9 am","Jamie",792,0.0,"60-70","66-70","1-2","overcast","no","low","","Quantitray Sealer","","",592
+"Coronado: Avenida Del Sol",553110134,"2019-08-09","8-9 am","Korrie",664,0.0,"60-70","61-65","1-2","overcast","no","low","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553110133,"2019-08-09","8-9 am","Korrie",663,0.0,"60-70","61-65","1-2","overcast","no","low","","Quantitray Sealer","","",10
+"Dog Beach (Ocean Beach)",553110136,"2019-08-09","8-9 am","Robert",847,0.0,"60-70","71-75","1-2","overcast","no","low","","Quantitray Sealer","","",10
+"Imperial Beach Pier",553110132,"2019-08-09","9-10 am","Amber, Pete",662,6.0,"60-70","66-70","2-3","sunny","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553110131,"2019-08-09","9-10 am","Amber, Pete",661,6.0,"60-70","66-70","2-3","sunny","no","medium","","Quantitray Sealer","","",10
+"Mission Bay Aquatic Center",553110140,"2019-08-09","8-9 am","Jamie",810,0.0,"60-70","66-70","1-2","overcast","no","low","","Quantitray Sealer","","",10
+"Ocean Beach Pier",553110135,"2019-08-09","8-9 am","Robert",846,0.0,"60-70","71-75","1-2","overcast","no","low","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553110137,"2019-08-09","8-9 am","Robert",848,0.0,"60-70","71-75","1-2","overcast","no","low","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553110138,"2019-08-09","8-9 am","Jamie",791,0.0,"60-70","66-70","1-2","overcast","no","low","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553109972,"2019-08-01","2-3 pm","JJM",662,6.0,"70-80","66-70","3-4","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553109971,"2019-08-01","2-3 pm","JJM",661,6.0,"70-80","66-70","3-4","partly cloudy","no","medium","","Quantitray Sealer","","",62
+"Campland- Mission Bay",553109817,"2019-07-25","8-9 am","Jamie",792,0.0,"70-80","66-70",0.5,"sunny","yes","low","","Quantitray Sealer","","",41
+"Coronado: Avenida Del Sol",553109815,"2019-07-25","8-9 am","Ally",664,0.0,"70-80","66-70","1-2","sunny","yes","low","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553109814,"2019-07-25","8-9 am","Ally",663,0.0,"70-80","71-75","2-3","sunny","yes","low","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553109820,"2019-07-25","8-9 am","Alexis",847,0.0,"70-80","66-70","1-2","sunny","yes","low","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553109823,"2019-07-25","10-11 am","J, J, M",662,6.0,"70-80","71-75","3-4","sunny","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553109822,"2019-07-25","10-11 am","J,J, M",661,6.0,"70-80","71-75","3-4","sunny","no","medium","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553109818,"2019-07-25","8-9 am","Jamie",810,0.0,"70-80","66-70",0.5,"sunny","yes","low","","Quantitray Sealer","","",0
+"Ocean Beach Pier",553109819,"2019-07-25","8-9 am","Alexis",846,0.0,"70-80","66-70","1-2","sunny","yes","low","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553109821,"2019-07-25","8-9 am","Alexis",848,0.0,"70-80","66-70","1-2","sunny","yes","low","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553109816,"2019-07-25","8-9 am","Jamie",791,0.0,"70-80","66-70","2-3","sunny","yes","low","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553109712,"2019-07-18","8-9 am","Alex",792,0.0,"60-70","66-70",0.5,"partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553109710,"2019-07-18","8-9 am","Linda",664,0.0,"60-70","66-70","2-3","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553109709,"2019-07-18","8-9 am","Linda",663,0.0,"60-70","66-70","2-3","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553109715,"2019-07-18","8-9 am","Caitlin",847,0.0,"60-70","66-70","2-3","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553109708,"2019-07-18","8-9 am","Kelli",662,0.0,"60-70","66-70","2-3","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553109707,"2019-07-18","8-9 am","Kelli",661,0.0,"60-70","66-70","2-3","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553109713,"2019-07-18","8-9 am","Alex",810,0.0,"60-70","66-70",0.5,"partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Ocean Beach Pier",553109714,"2019-07-18","8-9 am","Caitlin",846,0.0,"60-70","66-70","2-3","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553109716,"2019-07-18","8-9 am","Caitlin",848,0.0,"60-70","66-70","2-3","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553109711,"2019-07-18","8-9 am","Alex",791,0.0,"60-70","66-70","2-3","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553109534,"2019-07-11","8-9 am","Jamie",792,0.0,"60-70","66-70",0.5,"overcast","no","medium","","Quantitray Sealer","","",31
+"Coronado: Avenida Del Sol",553109530,"2019-07-11","8-9 am","Ally",664,0.0,"60-70","66-70","2-3","overcast","no","low","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553109531,"2019-07-11","8-9 am","Ally",663,0.0,"60-70","66-70","2-3","overcast","no","low","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553109536,"2019-07-11","8-9 am","Alexis",847,0.0,"60-70","66-70","3-4","overcast","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553109529,"2019-07-11","8-9 am","Linda",662,0.0,"60-70","66-70","4-5","overcast","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553109528,"2019-07-11","8-9 am","Linda",661,0.0,"60-70","66-70","4-5","overcast","no","medium","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553109533,"2019-07-11","8-9 am","Jamie",810,0.0,"60-70","66-70","3-4","overcast","no","medium","","Quantitray Sealer","","",0
+"Ocean Beach Pier",553109537,"2019-07-11","8-9 am","Alexis",846,0.0,"60-70","66-70","3-4","overcast","no","medium","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553109535,"2019-07-11","8-9 am","Alexis",848,0.0,"60-70","66-70","3-4","overcast","no","medium","","Quantitray Sealer","","",10
+"Tourmaline Surf Park- Pacific Beach",553109532,"2019-07-11","8-9 am","Jamie",791,0.0,"60-70","66-70","3-4","overcast","no","medium","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553109267,"2019-06-27","8-9 am","Jamie",792,0.0,"60-70","61-65","1-2","overcast","no","medium","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553109265,"2019-06-27","7-8 am","Ally",664,0.0,"60-70","61-65",0.5,"overcast","no","high","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553109264,"2019-06-27","7-8 am","Ally",663,0.0,"60-70","61-65",0.5,"overcast","no","high","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553109270,"2019-06-27","9-10 am","Alexis",847,0.0,"60-70","61-65","1-2","overcast","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553109263,"2019-06-27","8-9 am","Linda",662,0.0,"60-70","61-65","2-3","overcast","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553109262,"2019-06-27","8-9 am","Linda",661,0.0,"60-70","61-65","2-3","overcast","no","medium","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553109268,"2019-06-27","8-9 am","Jamie",810,0.0,"60-70","61-65","1-2","overcast","no","medium","","Quantitray Sealer","","",0
+"Ocean Beach Pier",553109269,"2019-06-27","9-10 am","Alexis",846,0.0,"60-70","61-65","1-2","overcast","no","medium","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553109271,"2019-06-27","9-10 am","Alexis",848,0.0,"60-70","61-65","1-2","overcast","no","medium","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553109266,"2019-06-27","7-8 am","Jamie",791,0.0,"60-70","61-65","1-2","overcast","no","medium","","Quantitray Sealer","","",10
+"Campland- Mission Bay",553109164,"2019-06-20","8-9 am","Alexis",792,0.0,"60-70","61-65","2-3","overcast","no","low","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553109162,"2019-06-20","8-9 am","Ally",664,0.0,"60-70","61-65","2-3","overcast","no","low","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553109161,"2019-06-20","8-9 am","Ally",663,0.0,"60-70","61-65","2-3","overcast","no","low","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553109167,"2019-06-20","8-9 am","Robert",847,0.0,"60-70","61-65","2-3","overcast","no","high","","Quantitray Sealer","","",10
+"Imperial Beach Pier",553109160,"2019-06-20","8-9 am","Linda",662,0.0,"60-70","61-65","2-3","overcast","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553109159,"2019-06-20","8-9 am","Linda",661,0.0,"60-70","61-65","2-3","overcast","no","medium","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553109165,"2019-06-20","8-9 am","Alexis",810,0.0,"60-70","61-65",0.5,"overcast","no","low","","Quantitray Sealer","","",0
+"Ocean Beach Pier",553109166,"2019-06-20","8-9 am","Robert",846,0.0,"60-70","61-65","2-3","overcast","no","high","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553109168,"2019-06-20","8-9 am","Robert",848,0.0,"60-70","61-65","2-3","overcast","no","high","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553109163,"2019-06-20","8-9 am","Alexis",791,0.0,"60-70","61-65","2-3","overcast","no","low","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553109053,"2019-06-13","8-9 am","Jamie",792,0.0,"60-70","61-65",0.5,"overcast","no","high","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553109051,"2019-06-13","8-9 am","Linda & Kaitlin",663,0.0,"60-70","66-70","","overcast","no","high","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553109056,"2019-06-13","8-9 am","Robert",847,0.0,"60-70","56-60","2-3","overcast","no","high","","Quantitray Sealer","","",148
+"Mission Bay Aquatic Center",553109054,"2019-06-13","8-9 am","Jamie",810,0.0,"","56-60",0.5,"overcast","no","high","","Quantitray Sealer","","",0
+"Ocean Beach Pier",553109055,"2019-06-13","8-9 am","Robert",846,0.0,"60-70","61-65","2-3","overcast","no","high","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553109057,"2019-06-13","8-9 am","Robert",848,0.0,"60-70","61-65","3-4","overcast","no","high","","Quantitray Sealer","","",20
+"Tourmaline Surf Park- Pacific Beach",553109052,"2019-06-13","8-9 am","Jamie",791,0.0,"60-70","61-65","2-3","overcast","no","high","","Quantitray Sealer","","",10
+"Campland- Mission Bay",553108909,"2019-06-06","8-9 am","Jamie",792,0.0,"60-70","61-65",0.5,"overcast","yes","medium","","Quantitray Sealer","","",10
+"Coronado: Avenida Del Sol",553108911,"2019-06-06","8-9 am","Gabby",664,18.0,"60-70","61-65","","","no","low","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553108912,"2019-06-06","7-8 am","Linda",663,18.0,"60-70","61-65","","","no","low","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553108906,"2019-06-06","9-10 am","Alex",847,0.0,"60-70","61-65","3-4","overcast","yes","medium","","Quantitray Sealer","","",10
+"Imperial Beach Pier",553108934,"2019-06-06","2-3 pm","Josh",662,6.0,"60-70","61-65","2-3","overcast","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553108933,"2019-06-06","2-3 pm","Josh",661,6.0,"60-70","61-65","2-3","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553108908,"2019-06-06","8-9 am","Jamie",810,0.0,"60-70","61-65",0.5,"overcast","yes","medium","","Quantitray Sealer","","",20
+"Ocean Beach Pier",553108907,"2019-06-06","9-10 am","Alex",846,0.0,"60-70","61-65","3-4","overcast","yes","medium","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553108905,"2019-06-06","9-10 am","Alex",848,0.0,"60-70","61-65","3-4","overcast","yes","medium","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553108910,"2019-06-06","8-9 am","Jamie",791,0.0,"60-70","61-65","2-3","overcast","yes","medium","","Quantitray Sealer","","",10
+"Campland- Mission Bay",553108785,"2019-05-30","8-9 am","Jamie",792,0.0,"60-70","56-60",0.5,"overcast","no","high","","Quantitray Sealer","","",10
+"Coronado: Avenida Del Sol",553108791,"2019-05-30","6-7 am","Jessica ",664,0.0,"","","","","","","","Quantitray Sealer","","",1
+"Coronado: Silver Strand State Beach",553108792,"2019-05-30","","Jessica",663,0.0,"60-70","56-60","","overcast","no","","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553108787,"2019-05-30","11-12 pm","Anthony, Audrie",662,6.0,"60-70","61-65","2-3","overcast","no","medium","","Quantitray Sealer","","",20
+"Imperial Beach: Seacoast Drive",553108788,"2019-05-30","11-12 pm","Anthony, Audrie",661,6.0,"60-70","61-65","3-4","overcast","no","medium","","Quantitray Sealer","","",52
+"Mission Bay Aquatic Center",553108786,"2019-05-30","8-9 am","Jamie",810,0.0,"60-70","56-60",0.5,"overcast","no","high","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553108784,"2019-05-30","8-9 am","Jamie",791,0.0,"60-70","56-60","3-4","overcast","no","high","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553108790,"2019-05-29","8-9 am","Josh",662,6.0,"60-70","61-65","3-4","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553108789,"2019-05-29","9-10 am","Emily, Damon",661,6.0,"60-70","61-65","2-3","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553108740,"2019-05-25","3-4 pm","Josh",662,6.0,"60-70","61-65","3-4","partly cloudy","yes","medium","maxed out quantitray","Quantitray Sealer","","",24196
+"Imperial Beach: Seacoast Drive",553108739,"2019-05-25","3-4 pm","Josh",661,6.0,"60-70","61-65","3-4","partly cloudy","yes","medium","maxed out quantitray","Quantitray Sealer","","",24196
+"Campland- Mission Bay",553108681,"2019-05-23","8-9 am","Robert W.",792,0.0,"60-70","61-65","4-5","overcast","yes","medium","","Quantitray Sealer","","",127
+"Coronado: Avenida Del Sol",553108664,"2019-05-23","7-8 am","Jessica",664,0.0,"","","","","yes","low","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553108665,"2019-05-23","8-9 am","Jessica",663,0.0,"60-70","61-65","4-5","","yes","low","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553108684,"2019-05-23","9-10 am","Alex V.",847,0.0,"50-60","56-60","4-5","overcast","yes","low","","Quantitray Sealer","","",266
+"Mission Bay Aquatic Center",553108680,"2019-05-23","8-9 am","Robert W.",810,0.0,"60-70","61-65","4-5","overcast","yes","medium","","Quantitray Sealer","","",0
+"Ocean Beach Pier",553108683,"2019-05-23","9-10 am","Alex V.",846,0.0,"50-60","56-60","4-5","overcast","yes","low","","Quantitray Sealer","","",110
+"Sunset Cliffs (Ocean Beach)",553108682,"2019-05-23","9-10 am","Alex",848,0.0,"50-60","56-60","4-5","overcast","yes","low","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553108679,"2019-05-23","8-9 am","Robert W.",791,0.0,"60-70","61-65","4-5","overcast","yes","medium","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553108483,"2019-05-16","9-10 am","Allison",792,0.0,"60-70","61-65","3-4","light rain","yes","high","","Quantitray Sealer","","",2352
+"Coronado: Silver Strand State Beach",553108475,"2019-05-16","10-11 am","Fuentes",663,6.0,"60-70","61-65","3-4","overcast","yes","medium","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553108478,"2019-05-16","9-10 am","Alex V./ Kaitlin",847,0.0,"60-70","66-70","4-5","light rain","yes","high","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553108477,"2019-05-16","10-11 am","Josh, Cameron",662,6.0,"60-70","61-65","2-3","overcast","yes","medium","","Quantitray Sealer","","",10
+"Imperial Beach: Seacoast Drive",553108476,"2019-05-16","10-11 am","Josh, Cameron",661,6.0,"60-70","61-65","2-3","overcast","yes","medium","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553108482,"2019-05-16","9-10 am","Allison",810,0.0,"60-70","61-65","3-4","light rain","yes","high","","Quantitray Sealer","","",0
+"Ocean Beach Pier",553108479,"2019-05-16","9-10 am","Alex V./ Kaitlin",846,0.0,"60-70","61-65","4-5","light rain","yes","high","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553108480,"2019-05-16","9-10 am","Alex V./ Kaitlin",848,0.0,"60-70","61-65","4-5","light rain","yes","high","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553108481,"2019-05-16","9-10 am","Allison",791,0.0,"60-70","61-65","3-4","light rain","yes","high","","Quantitray Sealer","","",10
+"Campland- Mission Bay",553108343,"2019-05-09","8-9 am","Jamie",792,0.0,"50-60","61-65",0.5,"light rain","yes","low","","Quantitray Sealer","","",75
+"Coronado: Silver Strand State Beach",553108333,"2019-05-09","11-12 pm","Matt, Josh",663,6.0,"60-70","61-65","1-2","partly cloudy","yes","low","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553108340,"2019-05-09","9-10 am","Robert",847,0.0,"60-70","61-65","3-4","light rain","yes","low","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553108334,"2019-05-09","11-12 pm","Emily, Josh",662,6.0,"60-70","61-65","1-2","partly cloudy","yes","low","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553108336,"2019-05-09","11-12 pm","Nathaniel, Josh",661,6.0,"60-70","61-65","2-3","partly cloudy","yes","low","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553108342,"2019-05-09","8-9 am","Jamie",810,0.0,"50-60","61-65",0.5,"light rain","yes","low","","Quantitray Sealer","","",10
+"Ocean Beach Pier",553108341,"2019-05-09","9-10 am","Robert",846,0.0,"60-70","61-65","3-4","light rain","yes","low","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553108339,"2019-05-09","9-10 am","Robert",848,0.0,"60-70","61-65","3-4","light rain","yes","low","","Quantitray Sealer","","",220
+"Tourmaline Surf Park- Pacific Beach",553108344,"2019-05-09","8-9 am","Jamie",791,0.0,"50-60","61-65","1-2","light rain","yes","low","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553108305,"2019-05-08","9-10 am","Shaunie, Brian",662,6.0,"60-70","61-65","3-4","overcast","yes","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553108202,"2019-05-03","11-12 pm","Cam, Emily",662,6.0,"60-70","61-65","2-3","sunny","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553108201,"2019-05-03","11-12 pm","Cam, Emily",661,6.0,"60-70","61-65","2-3","sunny","no","medium","","Quantitray Sealer","","",10
+"Campland- Mission Bay",553108118,"2019-05-02","8-9 am","Alexis",792,0.0,"60-70","61-65",0.5,"partly cloudy","yes","medium","","Quantitray Sealer","","",10
+"Coronado: Avenida Del Sol",553108131,"2019-05-02","6-7 am","William",664,24.0,"50-60","61-65","1-2","partly cloudy","yes","medium","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553108132,"2019-05-02","10-11 am","Michael Fuentes",663,24.0,"60-70","61-65","1-2","partly cloudy","yes","high","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553108121,"2019-05-02","8-9 am","Jamie",847,0.0,"60-70","61-65","1-2","overcast","yes","high","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553108119,"2019-05-02","8-9 am","Alexis",810,0.0,"60-70","61-65",0.5,"partly cloudy","yes","medium","","Quantitray Sealer","","",0
+"Ocean Beach Pier",553108120,"2019-05-02","8-9 am","Jamie",846,0.0,"60-70","61-65","1-2","overcast","yes","high","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553108122,"2019-05-02","8-9 am","Jamie",848,0.0,"60-70","61-65","1-2","overcast","yes","high","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553108117,"2019-05-02","8-9 am","Alexis",791,0.0,"60-70","61-65","1-2","partly cloudy","yes","medium","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553107990,"2019-04-26","11-12 pm","Alex V.",847,0.0,"60-70","61-65","1-2","sunny","no","low","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553107994,"2019-04-26","9-10 am","Robert W.",810,0.0,"60-70","61-65","1-2","overcast","no","low","","Quantitray Sealer","","",10
+"Ocean Beach Pier",553107992,"2019-04-26","11-12 pm","Alex V.",846,0.0,"60-70","61-65","1-2","sunny","no","low","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553107991,"2019-04-26","11-12 pm","Alex V.",848,0.0,"60-70","61-65","1-2","sunny","no","low","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553107993,"2019-04-26","9-10 am","Robert W.",791,0.0,"60-70","61-65","1-2","overcast","no","low","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553107988,"2019-04-25","6-7 am","William",664,18.0,"50-60","61-65","0.5-1","partly cloudy","no","low","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553107989,"2019-04-25","8-9 am","Michael Fuentes",663,24.0,"60-70","61-65","1-2","overcast","no","low","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553107986,"2019-04-25","11-12 pm","Cam, Angie",662,6.0,"60-70","56-60","0.5-1","partly cloudy","no","medium","no 10x DF","Quantitray Sealer","","",29
+"Imperial Beach: Seacoast Drive",553107987,"2019-04-25","11-12 pm","Cam, Angie",661,6.0,"60-70","56-60","0.5-1","partly cloudy","no","medium","no 10x DF","Quantitray Sealer","","",32
+"Coronado: Avenida Del Sol",553107855,"2019-04-18","7-8 am","Gabby",664,18.0,"60-70","61-65","2-3","","yes","medium","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553107856,"2019-04-18","9-10 am","Fuentes",663,18.0,"60-70","61-65","4-5","sunny","yes","medium","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553107853,"2019-04-18","8-9 am","Alexis",847,0.0,"60-70","56-60","1-2","sunny","yes","high","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553107850,"2019-04-18","8-9 am","Robert",810,0.0,"60-70","56-60",0.5,"sunny","yes","high","","Quantitray Sealer","","",41
+"Ocean Beach Pier",553107852,"2019-04-18","9-10 am","Alexis",846,0.0,"60-70","56-60","1-2","sunny","yes","high","","Quantitray Sealer","","",262
+"Sunset Cliffs (Ocean Beach)",553107854,"2019-04-18","9-10 am","Alexis",848,0.0,"60-70","56-60","1-2","sunny","yes","high","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553107851,"2019-04-18","8-9 am","Robert",791,0.0,"60-70","56-60","1-2","sunny","yes","high","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553107814,"2019-04-17","9-10 am","Alana, Shaunie, Diana, Serena",662,6.0,"60-70","56-60","3-4","sunny","no","high","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553107815,"2019-04-17","9-10 am","Josh",661,6.0,"60-70","56-60","3-4","sunny","no","high","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553107690,"2019-04-11","8-9 am","Allison",792,0.0,"60-70","56-60",0.5,"sunny","no","low","","Quantitray Sealer","","",10
+"Coronado: Avenida Del Sol",553107694,"2019-04-11","8-9 am","Gabby",664,0.0,"","","","","","","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553107687,"2019-04-11","9-10 am","Alexis",847,0.0,"60-70","56-60","4-5","sunny","no","low","","Quantitray Sealer","","",41
+"Imperial Beach Pier",553107692,"2019-04-11","11-12 pm","Emily, J",662,6.0,"60-70","61-65","2-3","partly cloudy","no","medium","","Quantitray Sealer","","",173
+"Imperial Beach: Seacoast Drive",553107693,"2019-04-11","11-12 pm","Emily, J",661,6.0,"60-70","61-65","2-3","partly cloudy","no","medium","","Quantitray Sealer","","",83
+"Mission Bay Aquatic Center",553107689,"2019-04-11","","Allison",810,0.0,"60-70","56-60",0.5,"sunny","no","low","","Quantitray Sealer","","",0
+"Ocean Beach Pier",553107688,"2019-04-11","9-10 am","Alexis",846,0.0,"60-70","56-60","4-5","sunny","no","low","","Quantitray Sealer","","",10
+"Sunset Cliffs (Ocean Beach)",553107686,"2019-04-11","9-10 am","Alexis",848,0.0,"60-70","56-60","4-5","sunny","no","low","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553107691,"2019-04-11","8-9 am","Allison",791,0.0,"60-70","56-60","3-4","sunny","no","low","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553107574,"2019-04-04","7-8 am","William",664,18.0,"","","","partly cloudy","yes","","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553107575,"2019-04-04","8-9 am","Michael",663,0.0,"","","","","yes","","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553107399,"2019-03-28","7-8 am","Ally Senturk",792,0.0,"50-60","56-60","2-3","sunny","no","low","","Quantitray Sealer","","",404
+"Coronado: Avenida Del Sol",553107404,"2019-03-28","8-9 am","Linda Smith",664,0.0,"50-60","61-65","1-2","sunny","no","medium","","Quantitray Sealer","","",10
+"Coronado: Silver Strand State Beach",553107403,"2019-03-28","8-9 am","Linda Smith",663,0.0,"60-70","56-60","2-3","sunny","no","medium","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553107402,"2019-03-28","8-9 am","Alexis",847,0.0,"50-60","56-60","1-2","sunny","no","low","","Quantitray Sealer","","",10
+"Mission Bay Aquatic Center",553107398,"2019-03-28","7-8 am","Ally Senturk",810,0.0,"50-60","56-60","2-3","sunny","no","low","","Quantitray Sealer","","",10
+"Ocean Beach Pier",553107401,"2019-03-28","8-9 am","Alexis",846,0.0,"50-60","56-60","1-2","sunny","no","low","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553107400,"2019-03-28","8-9 am","Alexis",848,0.0,"50-60","56-60","1-2","sunny","no","low","","Quantitray Sealer","","",20
+"Tourmaline Surf Park- Pacific Beach",553107397,"2019-03-28","7-8 am","Ally Senturk",791,0.0,"50-60","56-60","2-3","sunny","no","low","","Quantitray Sealer","","",10
+"Campland- Mission Bay",553107237,"2019-03-21","8-9 am","Allison",792,0.0,"50-60","56-60",0.5,"partly cloudy","yes","medium","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553107245,"2019-03-21","8-9 am","Mike",663,0.0,"","","","","yes","","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553107240,"2019-03-21","8-9 am","Alexis",847,0.0,"50-60","56-60","2-3","partly cloudy","yes","medium","","Quantitray Sealer","","",20
+"Imperial Beach Pier",553107265,"2019-03-21","10-11 am","Alana, Fletcher",662,6.0,"60-70","56-60","5-6","sunny","yes","high","33.7ppt
+268.2mV
+6.68pH","Quantitray Sealer","","",63
+"Mission Bay Aquatic Center",553107238,"2019-03-21","8-9 am","Allison",810,0.0,"50-60","56-60",0.5,"partly cloudy","yes","medium","","Quantitray Sealer","","",10
+"Ocean Beach Pier",553107239,"2019-03-21","8-9 am","Alexis",846,0.0,"50-60","56-60","2-3","partly cloudy","yes","medium","","Quantitray Sealer","","",10
+"Sunset Cliffs (Ocean Beach)",553107241,"2019-03-21","8-9 am","Alexis",848,0.0,"50-60","56-60","2-3","partly cloudy","yes","medium","","Quantitray Sealer","","",31
+"Tourmaline Surf Park- Pacific Beach",553107236,"2019-03-21","8-9 am","Allison",791,0.0,"50-60","56-60","2-3","partly cloudy","yes","medium","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553107141,"2019-03-14","","Jamie",792,0.0,"50-60","","","","yes","","","Quantitray Sealer","","",10
+"Coronado: Avenida Del Sol",553107168,"2019-03-14","9-10 am","William",664,0.0,"","","","","","","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553107169,"2019-03-14","9-10 am","Mike",663,0.0,"","","","","","","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553107128,"2019-03-14","10-11 am","Shaunie, Diana",662,6.0,"60-70","56-60","3-4","sunny","no","low","","Quantitray Sealer","","",10
+"Mission Bay Aquatic Center",553107142,"2019-03-14","","Jamie",810,0.0,"","","","","","","","Quantitray Sealer","","",63
+"Tourmaline Surf Park- Pacific Beach",553107143,"2019-03-14","","Jamie",791,0.0,"","","","","","","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553106950,"2019-03-07","7-8 am","Allison",792,0.0,"50-60","56-60",0.5,"partly cloudy","yes","medium","","Quantitray Sealer","","",439
+"Coronado: Avenida Del Sol",553106931,"2019-03-07","6-7 am","William",664,24.0,"50-60","61-65","4-5","partly cloudy","yes","medium","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553106936,"2019-03-07","10-11 am","Michael Fuentes",664,24.0,"50-60","61-65","3-4","partly cloudy","yes","high","","Quantitray Sealer","","",3
+"Dog Beach (Ocean Beach)",553106955,"2019-03-07","7-8 am","Alexis",847,0.0,"60-70","56-60","3-4","overcast","yes","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553106937,"2019-03-07","8-9 am","Iyarie, Shaunie",662,6.0,"60-70","56-60","2-3","sunny","yes","medium","7.99 pH
+3.8m visibility
+215.1 ORP
+32.7 ppt","Quantitray Sealer","","",900
+"Mission Bay Aquatic Center",553106952,"2019-03-07","7-8 am","Allison",810,0.0,"50-60","56-60",0.5,"partly cloudy","yes","medium","","Quantitray Sealer","","",20
+"Ocean Beach Pier",553106953,"2019-03-07","7-8 am","Alexis",846,0.0,"60-70","56-60","3-4","overcast","yes","medium","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553106954,"2019-03-07","7-8 am","Alexis",848,0.0,"60-70","56-60","3-4","overcast","yes","medium","","Quantitray Sealer","","",20
+"Tourmaline Surf Park- Pacific Beach",553106951,"2019-03-07","7-8 am","Allison",791,0.0,"50-60","56-60","3-4","partly cloudy","yes","medium","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553106869,"2019-02-28","","Jamie",792,0.0,"","","","","","","","Quantitray Sealer","","",393
+"Coronado: Avenida Del Sol",553106848,"2019-02-28","6-7 am","Tippets",664,0.0,"","61-65","0.5-1","","no","medium","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553106849,"2019-02-28","8-9 am","Linda",663,0.0,"","61-65","1-2","","","medium","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553106866,"2019-02-28","","Justin",847,0.0,"","","","","","","","Quantitray Sealer","","",369
+"Imperial Beach Pier",553106847,"2019-02-28","9-10 am","Anthony",662,1.0,"50-60","46-50","1-2","partly cloudy","no","low","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553106870,"2019-02-28","","Jamie",810,0.0,"","","","","","","","Quantitray Sealer","","",71
+"Ocean Beach Pier",553106867,"2019-02-28","","Justin",846,0.0,"","","","","","","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553106868,"2019-02-28","","Justin ",848,0.0,"","","","","","","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553106871,"2019-02-28","","Jamie",791,0.0,"","","","","","","","Quantitray Sealer","","",10
+"Imperial Beach Pier",553106679,"2019-02-22","10-11 am","Anthony, Shaunessy",662,1.0,"50-60","46-50","1-2","overcast","yes","medium","","Quantitray Sealer","","",31
+"Imperial Beach: Seacoast Drive",553106678,"2019-02-22","10-11 am","Anthony, Shaunessy",661,1.0,"50-60","46-50","1-2","overcast","yes","medium","","Quantitray Sealer","","",85
+"Campland- Mission Bay",553106704,"2019-02-21","8-9 am","Jamie Owens",792,0.0,"50-60","56-60","4-5","overcast","yes","high","","Quantitray Sealer","","",135
+"Coronado: Avenida Del Sol",553106668,"2019-02-21","6-7 am","Sydney",664,0.0,"","","","","yes","","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553106687,"2019-02-21","8-9 am","Linda & Karoly",663,0.0,"50-60","56-60","4-5","overcast","yes","high","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553106707,"2019-02-21","7-8 am","Alex, Glee, Justin",847,0.0,"50-60","56-60","4-5","overcast","yes","medium","","Quantitray Sealer","","",98
+"Mission Bay Aquatic Center",553106705,"2019-02-21","8-9 am","Jamie Owens",810,0.0,"50-60","56-60","4-5","overcast","yes","high","","Quantitray Sealer","","",61
+"Ocean Beach Pier",553106706,"2019-02-21","7-8 am","Alex, Glee, Justin",846,0.0,"50-60","56-60","4-5","overcast","yes","medium","","Quantitray Sealer","","",218
+"Sunset Cliffs (Ocean Beach)",553106708,"2019-02-21","7-8 am","Alex, Glee, Justin",848,0.0,"50-60","56-60","4-5","overcast","yes","medium","","Quantitray Sealer","","",20
+"Tourmaline Surf Park- Pacific Beach",553106703,"2019-02-21","8-9 am","Jamie Owens",791,0.0,"50-60","56-60","4-5","overcast","yes","high","","Quantitray Sealer","","",63
+"Imperial Beach Pier",553106630,"2019-02-20","10-11 am","Anthony",662,1.0,"50-60","46-50","1-2","partly cloudy","yes","low","","Quantitray Sealer","","",122
+"Imperial Beach: Seacoast Drive",553106629,"2019-02-20","10-11 am","Anthony",661,1.0,"50-60","46-50","1-2","partly cloudy","yes","medium","","Quantitray Sealer","","",109
+"Coronado: Avenida Del Sol",553106556,"2019-02-14","6-7 am","Tippets",664,12.0,"50-60","56-60","3-4","light rain","yes","high","","Quantitray Sealer","","",579
+"Coronado: Silver Strand State Beach",553106557,"2019-02-14","7-8 am","Linda",663,12.0,"50-60","56-60","4-5","light rain","yes","high","","Quantitray Sealer","","",2420
+"Dog Beach (Ocean Beach)",553106539,"2019-02-14","8-9 am","Robert",847,0.0,"50-60","56-60","3-4","heavy rain","yes","low","","Quantitray Sealer","","",301
+"Ocean Beach Pier",553106537,"2019-02-14","8-9 am","Robert",846,0.0,"50-60","56-60","3-4","heavy rain","yes","low","","Quantitray Sealer","","",85
+"Sunset Cliffs (Ocean Beach)",553106536,"2019-02-14","8-9 am","Robert",848,0.0,"50-60","56-60","3-4","heavy rain","yes","low","","Quantitray Sealer","","",110
+"Imperial Beach Pier",553106355,"2019-02-08","10-11 am","Anthony",662,1.0,"60-70","61-65","1-2","sunny","yes","medium","","Quantitray Sealer","","",52
+"Imperial Beach: Seacoast Drive",553106354,"2019-02-08","11-12 pm","Anthony",661,1.0,"60-70","61-65","1-2","sunny","yes","medium","","Quantitray Sealer","","",52
+"Campland- Mission Bay",553106366,"2019-02-07","8-9 am","Jamie",792,0.0,"40-50","56-60",0.5,"sunny","yes","high","","Quantitray Sealer","","",557
+"Coronado: Avenida Del Sol",553106359,"2019-02-07","6-7 am","William",664,24.0,"50-60","56-60","2-3","sunny","yes","high","","Quantitray Sealer","","",3
+"Coronado: Silver Strand State Beach",553106358,"2019-02-07","9-10 am","Linda Smith",663,18.0,"50-60","56-60","3-4","sunny","yes","high","","Quantitray Sealer","","",2
+"Dog Beach (Ocean Beach)",553106370,"2019-02-07","8-9 am","Justin",847,0.0,"50-60","56-60","2-3","sunny","yes","high","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553106368,"2019-02-07","8-9 am","Jamie",810,0.0,"40-50","56-60",0.5,"sunny","yes","high","","Quantitray Sealer","","",97
+"Ocean Beach Pier",553106369,"2019-02-07","8-9 am","Justin",846,0.0,"50-60","56-60","2-3","sunny","yes","high","","Quantitray Sealer","","",63
+"Sunset Cliffs (Ocean Beach)",553106371,"2019-02-07","8-9 am","Justin",848,0.0,"50-60","56-60","2-3","sunny","yes","high","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553106367,"2019-02-07","8-9 am","Jamie",791,0.0,"40-50","56-60","2-3","sunny","yes","high","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553106213,"2019-01-31","8-9 am","Allison",792,0.0,"50-60","56-60",0.5,"overcast","no","low","","Quantitray Sealer","","",216
+"Coronado: Avenida Del Sol",553106229,"2019-01-31","9-10 am","Jenna, Summer",664,18.0,"60-70","61-65","3-4","partly cloudy","no","","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553106218,"2019-01-31","8-9 am","Alexis",847,0.0,"50-60","56-60","1-2","overcast","no","high","","Quantitray Sealer","","",61
+"Imperial Beach Pier",553106207,"2019-01-31","12-1 pm","Emily, Josh",662,6.0,"60-70","56-60","1-2","overcast","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553106206,"2019-01-31","12-1 pm","Emily, Josh",661,6.0,"60-70","56-60","1-2","overcast","no","medium","","Quantitray Sealer","","",10
+"Mission Bay Aquatic Center",553106212,"2019-01-31","8-9 am","Allison",810,0.0,"50-60","56-60","3-4","overcast","no","low","","Quantitray Sealer","","",10
+"Ocean Beach Pier",553106216,"2019-01-31","8-9 am","Alexis",846,0.0,"50-60","56-60","1-2","overcast","no","high","","Quantitray Sealer","","",10
+"Sunset Cliffs (Ocean Beach)",553106217,"2019-01-31","8-9 am","Alexis",848,0.0,"50-60","56-60","1-2","overcast","no","high","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553106214,"2019-01-31","8-9 am","Allison",791,0.0,"50-60","56-60",0.5,"overcast","no","low","","Quantitray Sealer","","",10
+"Coronado: Silver Strand State Beach",553106119,"2019-01-25","10-11 am","Cam",663,6.0,"60-70","56-60","2-3","sunny","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553106118,"2019-01-25","10-11 am","Cam",662,0.0,"60-70","56-60","2-3","sunny","no","medium","","Quantitray Sealer","","",10
+"Imperial Beach: Seacoast Drive",553106117,"2019-01-25","11-12 pm","Cam",661,6.0,"60-70","56-60","2-3","sunny","no","medium","","Quantitray Sealer","","",10
+"Campland- Mission Bay",553106077,"2019-01-24","8-9 am","Allison",792,0.0,"50-60","56-60",0.5,"sunny","no","medium","","Quantitray Sealer","","",10
+"Coronado: Avenida Del Sol",553106090,"2019-01-24","6-7 am","William",664,36.0,"40-50","51-55","1-2","partly cloudy","no","low","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553106073,"2019-01-24","8-9 am","Robert",847,0.0,"50-60","56-60","3-4","sunny","no","high","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553106076,"2019-01-24","8-9 am","Allison",810,0.0,"50-60","56-60",0.5,"sunny","no","medium","","Quantitray Sealer","","",0
+"Ocean Beach Pier",553106074,"2019-01-24","8-9 am","Robert",846,0.0,"50-60","56-60","3-4","sunny","no","high","","Quantitray Sealer","","",20
+"Sunset Cliffs (Ocean Beach)",553106072,"2019-01-24","8-9 am","Robert",848,0.0,"50-60","56-60","3-4","sunny","no","high","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553106075,"2019-01-24","8-9 am","Allison",791,0.0,"50-60","56-60","2-3","sunny","no","high","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553105979,"2019-01-17","8-9 am","Jamie",792,0.0,"60-70","56-60",0.5,"overcast","yes","medium","","Quantitray Sealer","","",10
+"Coronado: Avenida Del Sol",553105969,"2019-01-17","6-7 am","Tippets",664,6.0,"50-60","56-60","4-5","overcast","yes","high","","Quantitray Sealer","","",15
+"Coronado: Silver Strand State Beach",553106083,"2019-01-17","9-10 am","Cameron, Linda",663,6.0,"60-70","56-60","5-6","overcast","yes","medium","","Quantitray Sealer","","",359
+"Dog Beach (Ocean Beach)",553105982,"2019-01-17","8-9 am","Robert",847,0.0,"60-70","56-60","4-5","overcast","yes","high","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553105980,"2019-01-17","8-9 am","Jamie",810,0.0,"60-70","56-60",0.5,"overcast","yes","medium","","Quantitray Sealer","","",0
+"Ocean Beach Pier",553105981,"2019-01-17","8-9 am","Robert",846,0.0,"60-70","56-60","4-5","overcast","yes","high","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553105983,"2019-01-17","8-9 am","Robert",848,0.0,"60-70","56-60","4-5","overcast","yes","high","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553105978,"2019-01-17","8-9 am","Jamie",791,0.0,"60-70","56-60","2-3","overcast","yes","","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553105817,"2019-01-10","8-9 am","Jamie",792,0.0,"50-60","56-60",0.5,"partly cloudy","no","high","","Quantitray Sealer","","",10
+"Coronado: Avenida Del Sol",553105799,"2019-01-10","6-7 am","William",664,18.0,"50-60","56-60","4-5","partly cloudy","no","high","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553105813,"2019-01-10","7-8 am","Tippets",663,0.0,"50-60","56-60","4-5","partly cloudy","no","high","Actual count of 1","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553105815,"2019-01-10","8-9 am","Alexis",847,0.0,"60-70","56-60","6-8","overcast","no","medium","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553105819,"2019-01-10","8-9 am","Jamie",810,0.0,"50-60","56-60",0.5,"partly cloudy","no","high","","Quantitray Sealer","","",0
+"Ocean Beach Pier",553105814,"2019-01-10","8-9 am","Alexis",846,0.0,"60-70","56-60","6-8","overcast","no","medium","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553105816,"2019-01-10","8-9 am","Alexis",848,0.0,"60-70","56-60","6-8","overcast","no","medium","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553105821,"2019-01-10","8-9 am","Jamie",791,0.0,"50-60","56-60","4-5","partly cloudy","no","high","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553105445,"2018-12-20","8-9 am","Jamie",792,0.0,"50-60","51-55","4-5","sunny","no","medium","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553105443,"2018-12-20","7-8 am","Tippets",664,6.0,"60-70","61-65","4-5","overcast","no","high","","Quantitray Sealer","","",50
+"Coronado: Silver Strand State Beach",553105457,"2018-12-20","","Emily, CC",663,6.0,"60-70","56-60","4-5","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Dog Beach (Ocean Beach)",553105449,"2018-12-20","8-9 am","Robert",847,0.0,"60-70","61-65","6-8","sunny","no","high","","Quantitray Sealer","","",52
+"Imperial Beach Pier",553105456,"2018-12-20","9-10 am","Emily",662,6.0,"60-70","56-60","4-5","partly cloudy","no","medium","","Quantitray Sealer","","",10
+"Imperial Beach: Seacoast Drive",553105455,"2018-12-20","9-10 am","Emily",661,6.0,"60-70","56-60","4-5","partly cloudy","no","medium","","Quantitray Sealer","","",109
+"Mission Bay Aquatic Center",553105447,"2018-12-20","8-9 am","Jamie",810,0.0,"50-60","51-55","4-5","sunny","no","medium","","Quantitray Sealer","","",0
+"Ocean Beach Pier",553105448,"2018-12-20","8-9 am","Robert",846,0.0,"60-70","61-65","6-8","sunny","no","high","","Quantitray Sealer","","",74
+"Sunset Cliffs (Ocean Beach)",553105450,"2018-12-20","8-9 am","Robert",848,0.0,"60-70","61-65","6-8","sunny","no","high","","Quantitray Sealer","","",20
+"Tourmaline Surf Park- Pacific Beach",553105444,"2018-12-20","","Jamie",791,0.0,"50-60","51-55","4-5","sunny","no","medium","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553105314,"2018-12-14","10-11 am","Linda",663,2.0,"60-70","66-70","1-2","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553105312,"2018-12-14","8-9 am","Anthony",662,1.0,"60-70","61-65","0.5-1","partly cloudy","no","medium","","Quantitray Sealer","","",74
+"Imperial Beach: Seacoast Drive",553105313,"2018-12-14","8-9 am","Anthony",661,1.0,"60-70","61-65","1-2","partly cloudy","no","medium","","Quantitray Sealer","","",171
+"Campland- Mission Bay",553105326,"2018-12-13","","Frank",792,0.0,"","","","","","","","Quantitray Sealer","","",10
+"Coronado: Avenida Del Sol",553105305,"2018-12-13","6-7 am","William",664,24.0,"60-70","61-65","1-2","partly cloudy","no","","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553105327,"2018-12-13","","Frank",810,0.0,"","","","","","","","Quantitray Sealer","","",10
+"Tourmaline Surf Park- Pacific Beach",553105325,"2018-12-13","","Frank",791,0.0,"","","","","","","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553105113,"2018-12-06","8-9 am","Jamie",792,0.0,"50-60","56-60",0.5,"light rain","yes","high","","Quantitray Sealer","","",4352
+"Coronado: Avenida Del Sol",553105099,"2018-12-06","6-7 am","Jenna & Summer",664,18.0,"50-60","61-65","4-5","overcast","yes","high","","Quantitray Sealer","","",43
+"Coronado: Silver Strand State Beach",553105092,"2018-12-06","10-11 am","Linda, Cameron",663,6.0,"60-70","61-65","3-4","overcast","yes","medium","","Quantitray Sealer","","",1130
+"Dog Beach (Ocean Beach)",553105114,"2018-12-06","8-9 am","RW",847,0.0,"50-60","56-60","3-4","light rain","yes","high","","Quantitray Sealer","","",650
+"Mission Bay Aquatic Center",553105112,"2018-12-06","7-8 am","Jamie",810,0.0,"50-60","56-60",0.5,"light rain","yes","high","","Quantitray Sealer","","",3282
+"Ocean Beach Pier",553105115,"2018-12-06","8-9 am","RW",846,0.0,"50-60","56-60","3-4","light rain","yes","high","","Quantitray Sealer","","",41
+"Sunset Cliffs (Ocean Beach)",553105116,"2018-12-06","8-9 am","RW",848,0.0,"50-60","56-60","3-4","light rain","yes","high","","Quantitray Sealer","","",20
+"Tourmaline Surf Park- Pacific Beach",553105109,"2018-12-06","7-8 am","Jamie",791,0.0,"50-60","56-60","3-4","light rain","yes","high","","Quantitray Sealer","","",1565
+"Imperial Beach Pier",553104984,"2018-11-30","10-11 am","Audrie, Cameron",662,6.0,"60-70","61-65","5-6","overcast","yes","medium","","Quantitray Sealer","","",30
+"Campland- Mission Bay",553104928,"2018-11-29","8-9 am","Jamie Owens",792,0.0,"60-70","61-65","0.5-1","light rain","yes","medium","","Quantitray Sealer","","",10
+"Coronado: Avenida Del Sol",553104941,"2018-11-29","6-7 am","Tippets",664,18.0,"50-60","61-65","2-3","overcast","yes","medium","","Quantitray Sealer","","",20
+"Dog Beach (Ocean Beach)",553105025,"2018-11-29","7-8 am","RW",847,0.0,"60-70","61-65","5-6","light rain","yes","high","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553104962,"2018-11-29","9-10 am","Jake, Cameron, Anthony",662,6.0,"60-70","61-65","3-4","overcast","yes","low","","Quantitray Sealer","","",20
+"Imperial Beach: Seacoast Drive",553104961,"2018-11-29","9-10 am","Cameron, Jake",661,6.0,"60-70","61-65","3-4","overcast","yes","low","","Quantitray Sealer","","",10
+"Imperial Beach: Seacoast Drive",553104963,"2018-11-29","9-10 am","Jake, Cameron, Anthony",661,6.0,"60-70","61-65","3-4","overcast","yes","low","","Quantitray Sealer","","",30
+"Mission Bay Aquatic Center",553104927,"2018-11-29","8-9 am","Jamie Owens",810,0.0,"60-70","61-65","0.5-1","light rain","yes","medium","","Quantitray Sealer","","",0
+"Ocean Beach Pier",553105024,"2018-11-29","7-8 am","RW",846,0.0,"60-70","61-65","5-6","light rain","yes","high","","Quantitray Sealer","","",0
+"Sunset Cliffs (Ocean Beach)",553105026,"2018-11-29","7-8 am","RW",848,0.0,"60-70","61-65","5-6","light rain","yes","high","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553104926,"2018-11-29","8-9 am","Jamie Owens",791,0.0,"60-70","61-65","4-5","light rain","yes","medium","","Quantitray Sealer","","",63
+"Coronado: Avenida Del Sol",553104612,"2018-11-15","6-7 am","William",664,24.0,"60-70","61-65","1-2","sunny","no","high","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553104601,"2018-11-15","9-10 am","Linda, Anthony",663,2.0,"60-70","61-65","1-2","sunny","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553104602,"2018-11-15","9-10 am","Anthony",662,3.0,"60-70","66-70","1-2","partly cloudy","no","low","","Quantitray Sealer","","",10
+"Imperial Beach: Seacoast Drive",553104603,"2018-11-15","9-10 am","Anthony",661,3.0,"60-70","61-65","1-2","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553104614,"2018-11-15","8-9 am","Jamie",810,0.0,"60-70","61-65",0.5,"sunny","no","low","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553104615,"2018-11-15","9-10 am","Jamie",810,0.0,"60-70","61-65",0.5,"sunny","no","low","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553104613,"2018-11-15","8-9 am","Jamie",791,0.0,"60-70","61-65","1-2","sunny","no","low","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553104464,"2018-11-08","8-9 am","Jamie",792,0.0,"60-70","61-65","1-2","overcast","no","high","","Quantitray Sealer","","",10
+"Coronado: Avenida Del Sol",553104470,"2018-11-08","6-7 am","William",664,24.0,"60-70","66-70","0.5-1","sunny","no","medium","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553104453,"2018-11-08","7-8 am","Charlotte, Linda, Anthony",663,6.0,"60-70","61-65","1-2","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553104455,"2018-11-08","8-9 am","Damen, Anthony",662,6.0,"60-70","61-65","1-2","sunny","no","medium","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553104463,"2018-11-08","8-9 am","Jamie",810,0.0,"60-70","61-65","1-2","overcast","no","high","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553104462,"2018-11-08","8-9 am","Jamie",791,0.0,"60-70","61-65","1-2","overcast","no","high","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553104291,"2018-11-01","6-7 am","Will & Sydney",664,24.0,"60-70","66-70","1-2","sunny","no","high","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553104287,"2018-11-01","7-8 am","Charlotte, Anthony",663,6.0,"70-80","61-65","1-2","sunny","no","high","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553104288,"2018-11-01","8-9 am","Iyarie, Anthony",662,6.0,"60-70","66-70","3-4","sunny","no","high","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553104289,"2018-11-01","9-10 am","Gaby, Anthony",661,6.0,"70-80","66-70","3-4","sunny","no","medium","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553104193,"2018-10-25","8-9 am","Frank",792,0.0,"60-70","66-70","2-3","overcast","no","medium","","Quantitray Sealer","","",30
+"Coronado: Avenida Del Sol",553104187,"2018-10-25","7-8 am","Charlotte, Anthony",664,6.0,"60-70","66-70","2-3","partly cloudy","no","medium","","Quantitray Sealer","","",10
+"Coronado: Silver Strand State Beach",553104189,"2018-10-25","8-9 am","Charlotte, Cameron",663,6.0,"60-70","61-65","2-3","overcast","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553104191,"2018-10-25","9-10 am","Tobe, Anthony",662,6.0,"60-70","61-65","3-4","overcast","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553104190,"2018-10-25","9-10 am","Ethan, Anthony",661,6.0,"60-70","61-65","3-4","overcast","no","medium","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553104192,"2018-10-25","8-9 am","Frank",810,0.0,"60-70","66-70","2-3","overcast","no","medium","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553104188,"2018-10-25","8-9 am","Frank",791,0.0,"60-70","66-70","2-3","overcast","no","medium","","Quantitray Sealer","","",10
+"Coronado: Avenida Del Sol",553104025,"2018-10-18","9-10 am","Ally, Cameron",664,6.0,"70-80","66-70","1-2","sunny","no","low","","Quantitray Sealer","","",10
+"Coronado: Silver Strand State Beach",553104027,"2018-10-18","9-10 am","Ally, Cameron",663,6.0,"70-80","66-70","1-2","sunny","no","low","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553104024,"2018-10-18","9-10 am","Emily, Cameron",662,6.0,"70-80","66-70","1-2","sunny","no","low","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553104026,"2018-10-18","9-10 am","Emily, Cameron",661,6.0,"60-70","66-70","1-2","sunny","no","low","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553104028,"2018-10-18","10-11 am","Emily",661,6.0,"60-70","66-70","2-3","sunny","no","medium","","Quantitray Sealer","","",10
+"Mission Bay Aquatic Center",553104030,"2018-10-18","8-9 am","RW",810,0.0,"60-70","66-70","2-3","sunny","no","high","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553104031,"2018-10-18","8-9 am","RW",810,0.0,"70-80","66-70","2-3","sunny","no","high","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553104029,"2018-10-18","7-8 am","RW",791,0.0,"50-60","66-70","2-3","sunny","no","high","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553103901,"2018-10-11","7-8 am","RW",792,0.0,"60-70","66-70","2-3","partly cloudy","no","medium","","Quantitray Sealer","","",20
+"Coronado: Avenida Del Sol",553103910,"2018-10-11","7-8 am","Charlotte, Anthony, Cameron",664,6.0,"60-70","66-70","4-5","overcast","no","medium","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553103912,"2018-10-11","7-8 am","Charlotte, Anthony, Cameron",663,6.0,"60-70","66-70","3-4","overcast","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553103914,"2018-10-11","9-10 am","Emily, Anthony, Cameron",662,6.0,"60-70","66-70","4-5","overcast","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553103913,"2018-10-11","9-10 am","Emily, Anthony, Cameron",661,6.0,"60-70","66-70","4-5","overcast","no","medium","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553103900,"2018-10-11","7-8 am","RW",810,0.0,"60-70","66-70","2-3","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553103899,"2018-10-11","8-9 am","RW",791,0.0,"60-70","66-70","2-3","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553103753,"2018-10-04","9-10 am","RW",792,0.0,"60-70","66-70","2-3","overcast","no","high","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553103754,"2018-10-04","","RW",810,0.0,"60-70","66-70","2-3","overcast","no","high","","Quantitray Sealer","","",20
+"Tourmaline Surf Park- Pacific Beach",553103752,"2018-10-04","8-9 am","Elijah",791,0.0,"60-70","66-70","2-3","overcast","no","high","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553103560,"2018-09-27","8-9 am","RW",792,0.0,"60-70","66-70","2-3","overcast","no","high","","Quantitray Sealer","","",199
+"Mission Bay Aquatic Center",553103561,"2018-09-27","8-9 am","RW",810,0.0,"60-70","66-70",0.5,"overcast","no","high","","Quantitray Sealer","","",30
+"Tourmaline Surf Park- Pacific Beach",553103559,"2018-09-27","9-10 am","RW",791,0.0,"60-70","66-70","3-4","overcast","no","high","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553103451,"2018-09-20","","RW",792,0.0,"60-70","66-70",0.5,"overcast","no","high","","Quantitray Sealer","","",10
+"Mission Bay Aquatic Center",553103450,"2018-09-20","7-8 am","RW",810,0.0,"60-70","66-70",0.5,"overcast","no","high","","Quantitray Sealer","","",10
+"Tourmaline Surf Park- Pacific Beach",553103449,"2018-09-20","8-9 am","RW",791,0.0,"60-70","66-70","3-4","overcast","no","high","","Quantitray Sealer","","",10
+"Campland- Mission Bay",553103302,"2018-09-13","8-9 am","RW",792,0.0,"70-80","66-70",0.5,"overcast","no","medium","","Quantitray Sealer","","",10
+"Imperial Beach Pier",553103301,"2018-09-13","3-4 pm","Emily, Cameron, Anthony",662,6.0,"60-70","61-65","2-3","sunny","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553103299,"2018-09-13","3-4 pm","Emily, Cameron, Anthony",661,6.0,"60-70","61-65","1-2","sunny","no","medium","","Quantitray Sealer","","",0
+"Mission Bay Aquatic Center",553103300,"2018-09-13","8-9 am","RW",810,0.0,"70-80","66-70",0.5,"overcast","no","medium","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553103298,"2018-09-13","8-9 am","RW",791,0.0,"70-80","66-70","2-3","overcast","no","medium","","Quantitray Sealer","","",10
+"Campland- Mission Bay",553103140,"2018-09-06","9-10 am","RW",792,0.0,"70-80","71-75",0.5,"overcast","no","high","","Quantitray Sealer","","",30
+"Mission Bay Aquatic Center",553103139,"2018-09-06","9-10 am","RW",810,0.0,"70-80","71-75",0.5,"overcast","no","high","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553103138,"2018-09-06","10-11 am","RW",791,0.0,"70-80","71-75","2-3","overcast","no","high","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553103031,"2018-08-30","8-9 am","Robert ",792,0.0,"70-80","71-75","0.5-1","","no","low","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553103027,"2018-08-30","9-10 am","Suzanne",664,6.0,"70-80","71-75","1-2","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553103028,"2018-08-30","9-10 am","Suzanne",663,6.0,"70-80","66-70","1-2","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553103029,"2018-08-30","9-10 am","Emily, Cameron, Joshua",662,6.0,"70-80","66-70","1-2","sunny","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553103030,"2018-08-30","9-10 am","Emily, Cameron, Joshua",661,6.0,"70-80","66-70","1-2","","no","medium","","Quantitray Sealer","","",20
+"Mission Bay Aquatic Center",553103033,"2018-08-30","8-9 am","Robert ",810,0.0,"70-80","71-75",0.5,"","no","","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553103032,"2018-08-30","8-9 am","Robert ",791,0.0,"70-80","71-75","1-2","","no","low","","Quantitray Sealer","","",0
+"Campland- Mission Bay",553102901,"2018-08-23","9-10 am","Hannah",792,0.0,"70-80","71-75","1-2","sunny","","high","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553102893,"2018-08-23","11-12 pm","Charlotte",664,6.0,"70-80","71-75","1-2","sunny","no","medium","","Quantitray Sealer","","",131
+"Coronado: Silver Strand State Beach",553102892,"2018-08-23","11-12 pm","Charlotte",663,6.0,"70-80","66-70","1-2","sunny","no","medium","","Quantitray Sealer","","",179
+"Mission Bay Aquatic Center",553102919,"2018-08-23","10-11 am","Hannah",810,3.0,"70-80","71-75","1-2","sunny","no","high","","Quantitray Sealer","","",0
+"Tourmaline Surf Park- Pacific Beach",553102900,"2018-08-23","9-10 am","Hannah",791,0.0,"70-80","71-75","1-2","sunny","","high","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553102736,"2018-08-16","9-10 am","Suzanne",664,6.0,"70-80","71-75","1-2","sunny","no","medium","","Quantitray Sealer","","",30
+"Coronado: Silver Strand State Beach",553102737,"2018-08-16","9-10 am","Suzanne ",663,6.0,"70-80","71-75","1-2","sunny","no","medium","","Quantitray Sealer","","",10
+"Imperial Beach Pier",553102738,"2018-08-16","10-11 am","Emily, Cameron, Josh",662,6.0,"70-80","71-75","1-2","sunny","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553102739,"2018-08-16","10-11 am","Emily, Cameron, Josh",661,6.0,"70-80","71-75","1-2","sunny","no","medium","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553102668,"2018-08-09","11-12 pm","Charlotte",664,6.0,"80-90","76-80","1-2","sunny","no","medium","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553102667,"2018-08-09","11-12 pm","Charlotte",663,6.0,"70-80","76-80","1-2","sunny","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553102669,"2018-08-09","11-12 pm","Cameron, Emily, Josh",662,6.0,"80-90","76-80","1-2","sunny","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553102670,"2018-08-09","11-12 pm","Cameron, Emily, Josh",661,6.0,"80-90","76-80","1-2","sunny","no","medium","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553102574,"2018-08-02","12-1 pm","Charlotte",664,6.0,"70-80","76-80","1-2","sunny","no","high","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553102573,"2018-08-02","12-1 pm","Charlotte",663,6.0,"70-80","66-70","1-2","sunny","no","high","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553102576,"2018-08-02","1-2 pm","Josh",662,6.0,"80-90","71-75","1-2","sunny","no","high","","Quantitray Sealer","","",10
+"Imperial Beach: Seacoast Drive",553102575,"2018-08-02","1-2 pm","Josh",661,6.0,"80-90","71-75","1-2","sunny","no","high","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553102466,"2018-07-27","10-11 am","Hannah",664,6.0,"70-80","71-75","2-3","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553102465,"2018-07-26","10-11 am","Hannah",663,6.0,"70-80","71-75","2-3","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553102463,"2018-07-26","11-12 pm","Emily, Cameron, Matt, Jeremy",662,6.0,"70-80","66-70","2-3","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553102464,"2018-07-26","12-1 pm","Emily, Cameron, Matt, Jeremy",661,6.0,"70-80","66-70","3-4","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553102321,"2018-07-19","12-1 pm","Charlotte",664,0.0,"70-80","71-75","1-2","sunny","no","high","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553102322,"2018-07-19","12-1 pm","Charlotte",663,0.0,"70-80","61-65","1-2","sunny","no","high","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553102154,"2018-07-12","10-11 am","Kirsten",664,0.0,"70-80","71-75","1-2","sunny","no","high","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553102155,"2018-07-12","","Kirsten",663,0.0,"70-80","71-75","1-2","sunny","no","high","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553102011,"2018-07-05","10-11 am","Suzanne",664,0.0,"60-70","66-70","1-2","sunny","no","medium","","Quantitray Sealer","","",110
+"Coronado: Silver Strand State Beach",553102012,"2018-07-05","10-11 am","Suzanne",663,0.0,"60-70","66-70","2-3","sunny","no","medium","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553101932,"2018-06-28","10-11 am","Suzanne",664,0.0,"60-70","66-70","1-2","sunny","no","medium","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553101933,"2018-06-28","10-11 am","Suzanne",663,0.0,"60-70","66-70","1-2","sunny","no","medium","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553101825,"2018-06-21","10-11 am","Charlotte",664,0.0,"60-70","66-70","1-2","partly cloudy","no","low","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553101826,"2018-06-21","10-11 am","Charlotte",663,0.0,"60-70","66-70","1-2","partly cloudy","no","low","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553101530,"2018-06-05","9-10 am","Charlotte",664,6.0,"60-70","61-65","1-2","overcast","no","","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553101529,"2018-06-05","9-10 am","Charlotte",663,6.0,"60-70","56-60","1-2","overcast","no","","","Quantitray Sealer","","",20
+"Coronado: Avenida Del Sol",553101464,"2018-05-31","9-10 am","Suzanne",664,6.0,"60-70","56-60","1-2","overcast","yes","low","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553101465,"2018-05-31","10-11 am","Suzanne ",663,6.0,"60-70","56-60","1-2","overcast","yes","low","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553101467,"2018-05-31","11-12 pm","Josh",662,6.0,"60-70","56-60","1-2","partly cloudy","yes","medium","","Quantitray Sealer","","",10
+"Imperial Beach: Seacoast Drive",553101466,"2018-05-31","11-12 pm","Josh",661,6.0,"60-70","56-60","1-2","partly cloudy","yes","medium","","Quantitray Sealer","","",10
+"Coronado: Avenida Del Sol",553101384,"2018-05-24","9-10 am","CC",664,6.0,"60-70","61-65","1-2","partly cloudy","yes","medium","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553101386,"2018-05-24","9-10 am","CC",663,6.0,"60-70","61-65","1-2","partly cloudy","yes","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553101382,"2018-05-24","9-10 am","Matt",662,6.0,"60-70","56-60","1-2","overcast","yes","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553101380,"2018-05-24","9-10 am","Matt",661,6.0,"60-70","56-60","1-2","overcast","yes","medium","","Quantitray Sealer","","",10
+"Imperial Beach Pier",553101377,"2018-05-23","1-2 pm","Bailey, Josh",662,6.0,"70-80","61-65","2-3","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553101376,"2018-05-23","1-2 pm","Bailey, Josh",661,6.0,"70-80","61-65","2-3","partly cloudy","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553101298,"2018-05-18","11-12 pm","Abby",662,6.0,"60-70","56-60","1-2","overcast","no","medium","","Quantitray Sealer","","",41
+"Imperial Beach: Seacoast Drive",553101297,"2018-05-18","11-12 pm","Abby",661,6.0,"60-70","56-60","1-2","overcast","no","medium","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553101244,"2018-05-17","11-12 pm","Suzanne",664,6.0,"60-70","51-55","1-2","overcast","no","medium","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553101243,"2018-05-17","11-12 pm","Suzanne",663,6.0,"60-70","51-55","1-2","overcast","no","medium","","Quantitray Sealer","","",145
+"Coronado: Avenida Del Sol",553101117,"2018-05-10","9-10 am","Gabriela",664,6.0,"60-70","61-65","3-4","overcast","no","medium","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553101118,"2018-05-10","9-10 am","Gabriela",663,6.0,"60-70","51-55","3-4","overcast","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553101120,"2018-05-10","10-11 am","Matt",662,6.0,"60-70","56-60","3-4","overcast","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553101119,"2018-05-10","10-11 am","Matt",661,6.0,"60-70","56-60","2-3","overcast","no","medium","","Quantitray Sealer","","",0
+"Coronado: Avenida Del Sol",553100940,"2018-05-03","10-11 am","Suzanne, Matt, Peterson",664,6.0,"50-60","51-55","1-2","sunny","yes","high","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553100941,"2018-05-03","11-12 pm","Suzanne, Matt, Peterson",663,6.0,"60-70","51-55","1-2","sunny","yes","high","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553100942,"2018-05-03","9-10 am","Matt, Peterson",662,6.0,"60-70","56-60","1-2","sunny","yes","high","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553100943,"2018-05-03","10-11 am","Matt, Peterson",661,6.0,"60-70","56-60","1-2","sunny","yes","high","","Quantitray Sealer","","",10
+"Coronado: Avenida Del Sol",553100844,"2018-04-26","9-10 am","Gabriela ",664,6.0,"60-70","61-65","1-2","overcast","no","medium","","Quantitray Sealer","","",0
+"Coronado: Silver Strand State Beach",553100845,"2018-04-26","9-10 am","Gabriela",663,6.0,"50-60","61-65","1-2","overcast","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553100846,"2018-04-26","8-9 am","Tiffany",662,6.0,"60-70","56-60","1-2","overcast","no","","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553100847,"2018-04-26","8-9 am","Anthony",661,6.0,"60-70","56-60","2-3","overcast","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553100682,"2018-04-19","10-11 am","Matt",662,6.0,"60-70","56-60","3-4","partly cloudy","yes","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553100683,"2018-04-19","10-11 am","Annie, Paige, Abbey",661,6.0,"60-70","56-60","3-4","partly cloudy","yes","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553100562,"2018-04-12","9-10 am","Summer, Charles, Corey",662,6.0,"60-70","61-65","2-3","overcast","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553100561,"2018-04-12","9-10 am","Iliana, Anthony, Darrion",661,6.0,"60-70","61-65","3-4","overcast","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553100420,"2018-04-04","11-12 pm","Annie, Paige, Abbey",662,6.0,"50-60","56-60","1-2","overcast","no","medium","","Quantitray Sealer","","",10
+"Imperial Beach: Seacoast Drive",553100419,"2018-04-04","11-12 pm","Delilah, Josh",661,6.0,"50-60","56-60","1-2","overcast","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553100125,"2018-03-15","10-11 am","Matt",662,6.0,"50-60","56-60","1-2","partly cloudy","yes","medium","","Quantitray Sealer","","",30
+"Imperial Beach: Seacoast Drive",553100126,"2018-03-15","10-11 am","Matt",661,6.0,"50-60","56-60","1-2","partly cloudy","yes","medium","","Quantitray Sealer","","",94
+"Imperial Beach Pier",553099519,"2018-03-08","10-11 am","Matt",662,6.0,"60-70","56-60","1-2","overcast","no","low","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553099520,"2018-03-08","10-11 am","Matt",662,6.0,"60-70","56-60","1-2","overcast","no","low","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553099517,"2018-03-08","10-11 am","Matt ",661,6.0,"60-70","56-60","1-2","overcast","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553099518,"2018-03-08","10-11 am","Matt",661,6.0,"60-70","56-60","1-2","overcast","no","medium","","Quantitray Sealer","","",0
+"Imperial Beach Pier",553099488,"2018-03-01","8-9 am","Emily, Charles, Tiffany",662,6.0,"50-60","61-65","3-4","sunny","yes","high","Water sample retreived from 20 feet from shoreline.","Quantitray Sealer","","",0
+"Imperial Beach Pier",553099489,"2018-03-01","8-9 am","Victoria, Sophia, Jake",662,78.7,"50-60","61-65","3-4","partly cloudy","yes","high","Sample was collected 818 feet from the beginning of the pier (adjacent to the life guard tower), collected under the water surface (2 meters)","Quantitray Sealer","","",20
+"Imperial Beach: Seacoast Drive",553099487,"2018-03-01","8-9 am","Anthony, Illiana, Patrick",661,6.0,"50-60","56-60","2-3","sunny","yes","high","","Quantitray Sealer","","",191
+"Imperial Beach Pier",553099484,"2018-02-28","10-11 am","Anissa, Rachael, Roberto",662,78.7,"60-70","56-60","2-3","sunny","yes","medium","Sample was collected 818 feet from the beginning of the pier (adjacent to lifeguard tower), below the water surface (2 meters).","Quantitray Sealer","","",20
+"Imperial Beach Pier",553099486,"2018-02-28","10-11 am","Ruben, Caren, Delilah",662,6.0,"50-60","61-65","2-3","partly cloudy","yes","medium","Sample was retrieved four feet from the shoreline. ","Quantitray Sealer","","",0
+"Imperial Beach: Seacoast Drive",553099485,"2018-02-28","10-11 am","Abbey, Annie, Paige",661,6.0,"50-60","56-60","1-2","sunny","yes","medium","Sample was retrieved 16 feet from the shoreline.  ","Quantitray Sealer","","",122
